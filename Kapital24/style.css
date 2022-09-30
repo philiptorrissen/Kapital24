@@ -1,0 +1,69 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: black;
+    color: #FF914D;
+}
+
+.nettside-header{
+    padding: 20px;
+    height: 100px;
+    
+
+    
+}
+
+.nettside-header h1{
+    margin: auto 0;
+    
+}
+
+nav{
+    background-color: black;
+    height: 50px;
+    margin-bottom: 20px;
+}
+nav ul{
+    margin: 0 0 0 0;
+}
+
+.navbar-nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.nav-link{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.6s;
+}
+.nav-link:visited{
+    color: #FF914D;
+}
+
+.nav-link:link{
+    color: #FF914D;
+    
+}
+.nav-link:hover{
+    color: #dead90;
+}
+
+.navbar-nav li{
+    padding: 10px 20px;
+}
+
+.nettside-nyheter{
+    display: flex;
+}
+
+
+.Knapp:hover{    
+    padding-left: 100px;
+}
+
